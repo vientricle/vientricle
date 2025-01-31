@@ -13,7 +13,8 @@
 ###
 
 <p align="left">Hi there! I'm Methew, a beginner game developer and tech enthusiast, just starting to explore the world of game development. I'm still figuring out the basics and learning the tools and frameworks that can help me build fun and engaging games—though I’ll admit, I still have a lot to learn!<br><br>I enjoy solving problems and experimenting with different resources to understand how game development works, even if I often get stuck along the way. My journey started with a passion for storytelling and digital art, but now I'm excited to learn how to bring those ideas to life through code.<br><br>When I’m not reading tutorials or watching YouTube videos, you can find me playing games to "research" (aka, enjoying some free time!).<br><br>Fun fact: I’ve been stuck on a simple puzzle for hours... but hey, at least I’m learning!</p>
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=vientricle)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vientricle&label=Profile%20views&color=0e75b6&style=flat" alt="vientricle" /> </p>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
